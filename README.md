@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Natalie-2004/Natalie-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,15 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![self_intro](https://unsw-my.sharepoint.com/:i:/r/personal/z5453932_ad_unsw_edu_au/Documents/Screenshot%202024-05-12%20at%2010.52.34%E2%80%AFpm.png?csf=1&web=1&e=7gVoaQ)
-
+<img width="1057" alt="Screenshot 2024-05-12 at 10 52 34 pm" src="https://github.com/Natalie-2004/Natalie-2004/assets/62165943/dbf56269-6154-43fe-8657-72ab4eb21d35">
 # About Me
 
 ### Hi again 👋, I'm Natalie! Hope you have great time here!
 #### Pronouns: She/Her
 #### Student 🌱 | interest with web development 💬 
-#### Future Goal: become proficent web developer
+#### Future Goal: Develop proficient knowledge in frontend && backend, get to know database and cloud
 
 #### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-FAC727?style=flat-square&logo=html5)
