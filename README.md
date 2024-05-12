@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img width="1057" alt="Screenshot 2024-05-12 at 10 52 34 pm" src="https://github.com/Natalie-2004/Natalie-2004/assets/62165943/dbf56269-6154-43fe-8657-72ab4eb21d35">
-# About Me
 
+# ABOUT ME
 ### Hi again 👋, I'm Natalie! Hope you have great time here!
 #### Pronouns: She/Her
-#### Student 🌱 | interest with web development 💬 
+#### Current Role: Student 🌱 | interest with web development 💬 
 #### Future Goal: Develop proficient knowledge in frontend && backend, get to know database and cloud
 
 #### 🎨 Frontend
