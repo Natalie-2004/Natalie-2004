@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
 
 #### 📊 GitHub Stats:
-[![Nat2004's GitHub | Topics Over Time](https://stats.quira.sh/Nat2004/topics-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=Nat2004)
+[![Nat2004's GitHub | Stats](https://stats.quira.sh/Nat2004/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Nat2004)
