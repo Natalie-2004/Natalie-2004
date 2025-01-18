@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-33ACFF?style=flat-square&logo=typescript)
 
 #### 🌐 Framework
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-8A0EE5?style=flat-square&logo=bootstrap)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 #### 🚀 Backend:
@@ -39,4 +38,4 @@ Here are some ideas to get you started:
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
 
 #### 📊 GitHub Stats:
-[![Nat2004's GitHub | Languages Over Time](https://stats.quine.sh/Nat2004/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Nat2004)
+[![Nat2004's GitHub | Topics Over Time](https://stats.quira.sh/Nat2004/topics-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=Nat2004)
