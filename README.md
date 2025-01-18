@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi again 👋, I'm Natalie! Hope you have great time here!
 #### Pronouns: She/Her
 #### Current Role: Student 🌱 | interest with web development 💬 
-#### Future Goal: Develop proficient knowledge in frontend && backend, get to know database and cloud
+#### Future Goal: Develop proficient knowledge in frontend && backend
 
 #### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-FAC727?style=flat-square&logo=html5)
@@ -38,4 +38,6 @@ Here are some ideas to get you started:
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
 
 #### 📊 GitHub Stats:
-[![Nat2004's GitHub | Stats](https://stats.quira.sh/Nat2004/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Nat2004)
+[![Natalie's GitHub stats](https://git-stats-natalie-2004s-projects.vercel.app/api?username=Natalie-2004\&hide=stars,prs,issues,contribs\&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://git-stats-natalie-2004s-projects.vercel.app/api/top-langs/?username=Natalie-2004&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
