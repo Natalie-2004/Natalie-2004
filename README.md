@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 #### 🚀 Backend:
-![Node.js](https://img.shields.io/badge/-Node.js-268C56?style=flat-square&logo=node.js)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/-C-265076?style=flat-square&logo=c)
 
 #### 🛠 Tools:
