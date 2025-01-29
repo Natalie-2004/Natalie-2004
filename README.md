@@ -21,21 +21,21 @@ Here are some ideas to get you started:
 #### Future Goal: Develop proficient knowledge in frontend && backend
 
 #### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-FAC727?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-0E11E5?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFFC33?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-33ACFF?style=flat-square&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-FAC727?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-0E11E5?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFFC33?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-33ACFF?style=for-the-badge&logo=typescript)
 
 #### 🌐 Framework
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 
 #### 🚀 Backend:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/-C-265076?style=flat-square&logo=c)
+![C](https://img.shields.io/badge/-C-265076?style=for-the-badge&logo=c)
 
 #### 🛠 Tools:
-![Git](https://img.shields.io/badge/-Git-BCC4BC?style=flat-square&logo=git)
-![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
+![Git](https://img.shields.io/badge/-Git-BCC4BC?style=for-the-badge&logo=git)
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=for-the-badge&logo=markdown)
 
 #### 📊 GitHub Stats:
 [![Natalie's GitHub stats](https://git-stats-natalie-2004s-projects.vercel.app/api?username=Natalie-2004\&hide=stars,prs,issues,contribs\&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
