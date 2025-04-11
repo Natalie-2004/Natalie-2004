@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 <img width="1057" alt="Screenshot 2024-05-12 at 10 52 34 pm" src="https://github.com/Natalie-2004/Natalie-2004/assets/62165943/dbf56269-6154-43fe-8657-72ab4eb21d35">
 
 # ABOUT ME
-### Hi again 👋, I'm Natalie! Hope you have great time here!
+### Hi again 👋, I'm Natalie! Hope you have a great time here!
 #### Pronouns: She/Her
-#### Current Role: Student 🌱 | interest with web development 💬 
-#### Future Goal: Develop proficient knowledge in frontend && backend
+#### Current Role: Student 🌱 | interest with web development 💬 Looking for interns
+#### Future Goal: Learn CI/CD
 
 #### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-FAC727?style=for-the-badge&logo=html5)
@@ -28,14 +28,18 @@ Here are some ideas to get you started:
 
 #### 🌐 Framework
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-pink?style=for-the-badge&logo=Bootstrap)
 
 #### 🚀 Backend:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/-C-265076?style=for-the-badge&logo=c)
 
+### Database:
+![MongoDB](https://img.shields.io/badge/-MongoDB-265076?style=for-the-badge&logo=MongoDB)
+
 #### 🛠 Tools:
 ![Git](https://img.shields.io/badge/-Git-BCC4BC?style=for-the-badge&logo=git)
-![Markdown](https://img.shields.io/badge/-Markdown-black?style=for-the-badge&logo=markdown)
+![Markdown](https://img.shields.io/badge/-Markdown-red?style=for-the-badge&logo=markdown)
 
 #### 📊 GitHub Stats:
 [![Natalie's GitHub stats](https://git-stats-natalie-2004s-projects.vercel.app/api?username=Natalie-2004\&hide=stars,prs,issues,contribs\&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
