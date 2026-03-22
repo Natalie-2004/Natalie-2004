@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi again 👋, I'm Natalie! Hope you have a great time here!
 #### Pronouns: She/Her
 #### Current Role: Student 🌱 | interest with web development 💬 Looking for interns
-#### Personal portfolio: https://natalie-portfolio-dev.netlify.app/
+#### Personal portfolio: https://portfolio-one-indol-h7tmyzar34.vercel.app/
 
 #### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-FAC727?style=for-the-badge&logo=html5)
