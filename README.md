@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 <img width="1057" alt="Screenshot 2024-05-12 at 10 52 34 pm" src="https://github.com/Natalie-2004/Natalie-2004/assets/62165943/dbf56269-6154-43fe-8657-72ab4eb21d35">
 
 # ABOUT ME
-### Hi again 👋, I'm Natalie! Hope you have a great time here!
+### 👋, I'm Natalie! Hope you have a great time here!
 #### Pronouns: She/Her
-#### Current Role: Student 🌱 | interest with web development 💬 Looking for interns
+#### Current Role: Student 🌱 | interest with web development 💬 Looking for interns & grad roles
 #### Personal portfolio: https://portfolio-one-indol-h7tmyzar34.vercel.app/
 
 #### 🎨 Frontend
@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 #### 🚀 Backend:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/-C-265076?style=for-the-badge&logo=c)
 
 ### Database:
